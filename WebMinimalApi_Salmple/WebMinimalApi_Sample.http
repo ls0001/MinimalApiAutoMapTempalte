@@ -1,0 +1,6 @@
+@WebMinimalApi_Salmple_HostAddress = http://localhost:5240
+
+GET {{WebMinimalApi_Salmple_HostAddress}}/SampleGroup/weatherforecast/
+Accept: application/json
+
+###
